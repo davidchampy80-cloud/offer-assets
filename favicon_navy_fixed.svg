@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Offer Product Academy - Leroy Merlin South Africa - Collection Days identity -->
+  <rect width="512" height="512" rx="110" fill="#001232"/>
+  <g>
+<defs><clipPath id="dcv"><rect x="96" y="402" width="320" height="36" rx="18"/></clipPath></defs>
+  <polygon points="256,92 456,184 256,276 56,184" fill="#F6F5F0"/>
+  <path d="M126 250 L256 310 L386 250 V310 L256 370 L126 310 Z" fill="#F6F5F0"/>
+  <rect x="440" y="184" width="32" height="118" rx="16" fill="#F5D802"/>
+  <circle cx="456" cy="318" r="20" fill="#F5D802"/>
+  <g clip-path="url(#dcv)">
+    <rect x="96"  y="402" width="128" height="36" fill="#F5D802"/>
+    <rect x="224" y="402" width="96"  height="36" fill="#8DC73F"/>
+    <rect x="320" y="402" width="80"  height="36" fill="#009B8D"/>
+    <rect x="400" y="402" width="16"  height="36" fill="#F6F5F0"/>
+  </g>
+  </g>
+</svg>
