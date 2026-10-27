@@ -15,10 +15,11 @@ https://davidchampy80-cloud.github.io/offer-assets/
 
 ## Rules
 
-- The repo and the Pages site are public. Only link apps or files that ask for a leroymerlin.co.za
-  login: Apps Script deployments under `/a/macros/leroymerlin.co.za/`, Drive files that are not shared
-  "Anyone with the link". No files from personal accounts. No figures, margins, supplier terms or
-  strategy text on any page. Pages carry `noindex`.
+- The repo and the Pages site are public. Only link apps or files that make you sign in before they show
+  anything: Apps Script deployments under `/a/macros/leroymerlin.co.za/`, apps with their own login on a
+  leroymerlin.co.za address, apps behind Google sign-in, Drive files that are not shared "Anyone with the
+  link". An email typed into the page and never verified is not a sign-in. No files from personal
+  accounts. No figures, margins, supplier terms or strategy text on any page. Pages carry `noindex`.
 - Team-facing copy is in English. House vocabulary: Turnover (never Revenue), MDH (never Private Label),
   "steps" (never "beats").
 - Offer family identity: Offer green `#4C8B2B` for marks and the single accent, slate `#3E4A56` for all

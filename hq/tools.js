@@ -10,7 +10,7 @@
  * shared "Anyone with the link"). No figures, margins or strategy in the blurbs.
  */
 window.OFFER_HQ = {
-  updated: '26 Oct 2026',
+  updated: '27 Oct 2026',
 
   groups: [
     { id: 'intel',   label: 'Intelligence', title: 'Know the market',  line: 'What moved overnight, and what it means for our range.' },
@@ -30,10 +30,10 @@ window.OFFER_HQ = {
     },
     {
       id: 'dima', group: 'intel', name: 'Intelligence Dima',
-      blurb: "The daily intelligence engine, tuned to Dima's scope and decisions.",
-      audience: "Dima's team",
-      url: '',
-      tags: 'intelligence market signals brief'
+      blurb: 'LMSA CI, the Category Intelligence platform. First time? Create your account with your work email.',
+      audience: 'CatMans · Market Leaders',
+      url: 'https://ci.leroymerlin.co.za/login',
+      tags: 'intelligence ci lmsa category intelligence platform insight market signals'
     },
     {
       id: 'collections', group: 'range', name: 'Collections',
@@ -71,11 +71,11 @@ window.OFFER_HQ = {
       tags: 'pro pros trade contractor builder bakkie range blueprint playbook tracker'
     },
     {
-      id: 'plans', group: 'plans', name: 'Detailed Plans Trackers',
+      id: 'plans', group: 'plans', name: 'Detailed Plans Tracker',
       blurb: 'Every detailed plan in one tracker: the owner, the deadline, the status, and where we land against plan.',
       audience: 'Market Leaders · CatMans',
-      url: '',
-      tags: 'detailed plans trackers actions landing deadlines owners status'
+      url: 'https://detailed-plans-follow-up.ai.studio',
+      tags: 'detailed plans trackers follow-up follow up actions landing deadlines owners status'
     },
     {
       id: 'cft', group: 'plans', name: 'CFT Tool',
