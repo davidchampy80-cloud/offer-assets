@@ -109,7 +109,7 @@ window.OFFER_HQ = {
       id: 'vox', group: 'rituals', name: 'VOX',
       blurb: 'Post the question you would not ask in the corridor, and vote for the ones that matter. The Offer EXCO answers them at the Forum.',
       audience: 'Everyone',
-      url: '',
+      url: 'https://anonymous-q-a-494459705545.europe-west1.run.app',
       tags: 'vox questions ideas vote voice feedback forum'
     },
     {
